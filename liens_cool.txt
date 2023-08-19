@@ -1,0 +1,3 @@
+https://github.com/thibaultauvray/Piscine-PHP/blob/master/D00-HTML-CSS/ex03/responsive.html
+https://www.pierre-giraud.com/html-css-apprendre-coder-cours/choix-editeur-texte/
+https://codepen.io/pen/

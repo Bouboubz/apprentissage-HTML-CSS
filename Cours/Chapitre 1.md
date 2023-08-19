@@ -1,5 +1,5 @@
 # [Chapitre 1 : Comprendre la différence entre HTML et CSS](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061257-comprenez-la-difference-entre-html-et-css)
 
-## Le rôle de l'HTML <uim-rocket />
+## Le rôle de l'HTML <i class="fa fa-camera-retro"></i> fa-camera-retro
 
-<uim-rocket />
+<i class="fa fa-camera-retro"></i> fa-camera-retro

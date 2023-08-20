@@ -3,4 +3,6 @@
 ### Les balises
 
 * En HTML on utilise des balises "<" et ">"
-*\includegraphics[width=6cm]{https://user.oc-static.com/upload/2022/11/25/16693910453649_FR_1603881_HTML-CSS_Static-Graphics_p1c3-1.jpg}
+![La base des balises](https://user.oc-static.com/upload/2022/11/25/16693910453649_FR_1603881_HTML-CSS_Static-Graphics_p1c3-1.jpg "une belle image")
+* Balises indiquent nature du texte
+* Exemple ```<title> </title> <img> <p> </p>```

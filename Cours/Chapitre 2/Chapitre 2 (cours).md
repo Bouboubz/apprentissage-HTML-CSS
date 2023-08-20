@@ -21,4 +21,10 @@
 * Voir index.html
 * ```lang ="fr"``` : pas obligatoire mais permet de préciser la langue du site
 * Ordre important car balises s'emboitent
-![Emboitement de balise]()
+![Emboitement de balise](https://user.oc-static.com/upload/2022/11/25/16693917384741_FR_1603881_HTML-CSS_Static-Graphics_p1c3-3 "5a2d")
+* Balise ```<!DOCTYPE html>``` indispensable car indique que c'est une page html
+* Balise ```<html> </html>``` englobe l'entièreté de la page
+* Balise ```<head> </head>``` contient paire de balise qui donnent titre (```<title>```) et encodage de la page (utf-8 important)
+* Balise ```<body> </body>``` contient tout ce qui sera affiché sur la page
+* Commentaires très important (raccourci : Ctrl + K puis Ctrl + C)
+

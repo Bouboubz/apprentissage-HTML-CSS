@@ -1,5 +1,11 @@
 # [Chapitre 1 : Comprendre la différence entre HTML et CSS](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061257-comprenez-la-difference-entre-html-et-css)
 
-## Le rôle de l'HTML <i class="fa fa-camera-retro"></i> fa-camera-retro
+### Le rôle de l'HTML 
 
-<i class="fa fa-camera-retro"></i> fa-camera-retro
+* HTML permet d'afficher contenu de la page (lien, image etc)
+* Format très brut
+
+### Le rôle du CSS
+
+* Une couche qui permet une mise en forme graphique sur la page
+* Le CSS a besoin de l'HTML pour fonctionner

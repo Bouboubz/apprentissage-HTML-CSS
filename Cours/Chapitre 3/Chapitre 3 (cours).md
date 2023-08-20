@@ -1,8 +1,8 @@
-# Chapitre 3 : Organiser son texte 
+# [Chapitre 3 : Organiser son texte](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061265-organisez-votre-texte) 
 
 ### Les balises
 
-* Créer des paragraphes avec les balises <p> </p>
+* Créer des paragraphes avec les balises ```<p>``` ```</p>```
 ```
 <!DOCTYPE html>
 <html lang="fr">
@@ -53,7 +53,7 @@
 </html>
 ```
 * Les balises pour écrire des listes : ```<li> et <ul> ou <ol>```
-  On balise les éléments d'une liste avec ```<li>``` pour indiquer que c'est une liste puis on indique si elle est ordonée avec ```<ol>``` ou si elle ne l'est pas ```<ul>```
+  On balise les éléments d'une liste avec ```<li>``` puis on indique si elle est ordonée avec ```<ol>``` ou si elle ne l'est pas ```<ul>```
 ```
   <h1>Les fruits rouges</h1>
 <ul>
@@ -70,8 +70,7 @@
 </ol>
 ```
 * Mettre en valeur du texte :
-| Balises | Traduction par le naviguateur |
-|--- |--- |
-| <mark></mark> | Surligner le texte |
-| <em></em> | Mettre le texte en italique |
-| <strong></strong> | Mettre le texte en gras |
+1. <mark></mark> Surligner le texte
+2. <em></em> Mettre le texte en italique
+3. <strong></strong> Mettre le texte en gras
+En réalite cela ne veut pas vraiment dire "mettre en gras ou en italique" mais plutôt que cette partie est importante (notamment pour le référencement de la page)

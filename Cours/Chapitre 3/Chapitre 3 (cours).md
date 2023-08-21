@@ -70,7 +70,7 @@
 </ol>
 ```
 * Mettre en valeur du texte :
-1. <mark></mark> Surligner le texte
-2. <em></em> Mettre le texte en italique
-3. <strong></strong> Mettre le texte en gras
+1. ```<mark></mark>``` Surligner le texte
+2. ```<em></em>``` Mettre le texte en italique
+3. ```<strong></strong>``` Mettre le texte en gras
 En réalite cela ne veut pas vraiment dire "mettre en gras ou en italique" mais plutôt que cette partie est importante (notamment pour le référencement de la page)

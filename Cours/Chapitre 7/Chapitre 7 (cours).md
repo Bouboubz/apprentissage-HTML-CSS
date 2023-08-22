@@ -10,6 +10,5 @@ font-size: 16px;
 ```
 * La valeur relative se donne de plusieurs façons différentes mais la plus fréquente est de la donner en em 
 >[!NOTE]
->
 > Une taille normale étant de 1em
 

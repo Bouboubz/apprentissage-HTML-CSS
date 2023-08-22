@@ -10,5 +10,31 @@ font-size: 16px;
 ```
 * La valeur relative se donne de plusieurs façons différentes mais la plus fréquente est de la donner en em 
 >[!NOTE]
-> Une taille normale étant de 1em
+>Une taille normale étant de 1em
+>[!IMPORTANT]
+>Pour un nombre décimal il faut mettre un point et non une virgule
+```
+<p class="elem1">Élément 1 : 1em</p>
+<p class="elem2">Élément 2 : 1.3em</p>
+<p class="elem3">Élément 3 : 2em</p>
+```
+```
+.elem1 {
+font-size: 1em;
+}
+
+.elem2 {
+font-size: 1.3em;
+}
+
+.elem3 {
+font-size: 2em;
+}
+```
+
+### Choisir une police 
+
+* On utilise la propriété ```font-family``` pour choisir la police
+
+
 

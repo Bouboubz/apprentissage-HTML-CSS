@@ -92,5 +92,5 @@ balise1
 * Une balise universelle = balise avec aucune signification particulière 
 * ```<span></span>``` et ```<div></div>```
 * La balise span est une balise de type "inline" (une balise que l'on place au seins d'un paragraphe)
-* La balise div est une balise de type "block" qui entoure un bloc de texte (comme <p> ou <h1>) utilisé souvent dans mise en page
+* La balise div est une balise de type "block" qui entoure un bloc de texte (comme ```<p>``` ou ```<h1>```) utilisé souvent dans mise en page
 

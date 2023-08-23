@@ -35,6 +35,13 @@ font-size: 2em;
 ### Choisir une police 
 
 * On utilise la propriété ```font-family``` pour choisir la police
+* Liste de police qui marche dans la plupart des naviguateurs : 
+  * Arial Black
+  * Futura
+  * Helvetica
+  * Impact
+  * Trebuchet MS
+  * Verdana
 
 
 

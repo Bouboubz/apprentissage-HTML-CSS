@@ -42,6 +42,22 @@ font-size: 2em;
   * Impact
   * Trebuchet MS
   * Verdana
+* Il est également possible d'utiliser une police de Google Fonts :*
+  1. On copie les balises ```<link>``` que l'on colle dans les balises ```<head>``` du fichier HTML
+  2. On utilise la propriété font-family dans le fichier CSS pour indiquer que l'on utilise cette police 
+
+### Propriété sympa 
+
+* Mettre du texte en italique avec la propriété font-style
+```
+em
+{
+    font-style: italic/normal;
+}
+```
+* Mettre du texte en gras avec la propriété font-weight (bold = texte en gras ; normal = texte normal ; thin = texte fin)
+* Souligner du texte avec la propriété texte-decoration (underline = souligné ; line-through = barré ; none = normal)
+* Aligné du texte avec la propriété text-align (left = aligné à gauche ; center = texte centré ; right = aligné à droite ; justify = justifie le texte ce qui fait qu'il prend toute la largeur possible sans laisser d'espace blanc)
 
 
 
